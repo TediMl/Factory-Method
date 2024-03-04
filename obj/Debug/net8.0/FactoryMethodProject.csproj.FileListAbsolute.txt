@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.AssemblyInfo.cs
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\bin\Debug\net8.0\FactoryMethodProject.exe
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\bin\Debug\net8.0\FactoryMethodProject.deps.json
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\bin\Debug\net8.0\FactoryMethodProject.runtimeconfig.json
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\bin\Debug\net8.0\FactoryMethodProject.dll
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\bin\Debug\net8.0\FactoryMethodProject.pdb
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.dll
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\refint\FactoryMethodProject.dll
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.pdb
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\FactoryMethodProject.genruntimeconfig.cache
+C:\Users\User\source\repos\FactoryMethodProject\FactoryMethodProject\obj\Debug\net8.0\ref\FactoryMethodProject.dll
