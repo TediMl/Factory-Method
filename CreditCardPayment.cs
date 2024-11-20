@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodProject
 {
-    internal class CreditCardPayment : IPayment
+    internal class CreditCardPayment : IPayment //inherited
     {
         public void Pay(double amount)
         {
